@@ -1,0 +1,214 @@
+* {
+    background-color: #fadddd;
+    font:oblique;
+    margin: 0px;
+}
+
+
+.header{
+    background-color: #234252;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
+
+.images {
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.panda{
+    max-width: 250px;
+    border: rgb(43, 137, 226);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.panda:hover p {
+    opacity: 1;
+}
+
+.panda:hover img {
+    opacity: 0.5;
+}
+
+.panda:hover {
+    transform: scale(1.15);
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(255, 0, 0)
+}
+
+.chameleon{
+    max-width: 250px;
+    border: rgb(130, 238, 233);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.chameleon:hover p {
+    opacity: 1;
+}
+
+.chameleon:hover img {
+    opacity: 0.5;
+}
+
+.chameleon:hover {
+    transform: scale(1.15);
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(252, 255, 47)
+}
+
+.cicada{
+    max-width: 250px;
+    border: rgb(130, 150, 238);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cicada:hover p {
+    opacity: 1;
+}
+
+.cicada:hover img {
+    opacity: 0.5;
+}
+
+.cicada:hover {
+    transform: scale(1.15);
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(255, 0, 200)
+}
+
+.pigeon{
+    max-width: 250px;
+    border: violet;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.pigeon:hover p {
+    opacity: 1;
+}
+
+.pigeon:hover img {
+    opacity: 0.5;
+}
+
+.pigeon:hover {
+    transform: scale(1.15);
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(255, 255, 255)
+}
+
+.teddy{
+    max-width: 25px;
+    border: rgb(130, 238, 171);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.teddy:hover p {
+    opacity: 1;
+}
+
+.teddy:hover img {
+    opacity: 0.5;
+}
+
+.teddy:hover {
+    transform: scale(1.15);
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(0, 255, 42)
+}
+
+.camel{
+    max-width: 250px;
+    border: rgb(238, 130, 130);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.camel:hover p {
+    opacity: 1;
+}
+
+.camel:hover img {
+    opacity: 0.5;
+}
+
+.camel:hover {
+    transform: scale(1.15);
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(0, 38, 255)
+}
+
+    h1{
+        text-align: center;
+        margin-left: 10px;
+        color : rgb(111, 0, 255);
+        padding: 20px;
+}
+
+body{
+    background: rgb(0, 217, 255);
+    color: whitesmoke;
+}
+
+a:link{
+    color: #3cb371;
+}
+
+a:visited{
+    color: #b33cb3;
+}
+
+img{
+    box-shadow: 5px 5px 2px 1px rgb(153, 153, 153)
+}
+
+li {
+    color: #00e1ff;
+}
+
+b {
+    font-size: 20px;
+    color: #8b0007;
+}
+
+i {
+    font-size: 20px;
+    color: #b2222200;
+}
